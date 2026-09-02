@@ -173,12 +173,25 @@ Full table in `data/processed/evaluation_results.csv` after running the notebook
 
 ## Screenshots
 
+### 1. General Chitchat Handling
 ![Streamlit UI - Chitchat Handling](https://drive.google.com/uc?export=view&id=1HCIySH7PKW-tFzvUeytigiNeP7FvueLK)
 
+---
+
+### 2. In-Scope Query Demonstration (Example 1)
 ![Streamlit UI - In-Scope Query 1](https://drive.google.com/uc?export=view&id=1qmuoFPhtYgeng7-I1UGVgb1YzDynX18B)
 
+---
+
+### 3. In-Scope Query Demonstration (Example 2)
 ![Streamlit UI - In-Scope Query 2](https://drive.google.com/uc?export=view&id=1C4MvvRfh_ZLgEv3QYvUAwdtXM7HJYRWN)
 
+---
+
+### 4. In-Scope Query Demonstration (Example 3)
 ![Streamlit UI - In-Scope Query 3](https://drive.google.com/uc?export=view&id=1ICY8Rgmr2kQDiMt0nHPLYwUZIIy6-gg5)
 
+---
+
+### 5. Out-of-Scope Query Fallback
 ![Streamlit UI - Out-of-Scope Fallback](https://drive.google.com/uc?export=view&id=1QkrtfpKcDxg_QRHeEaJOBweoTAqRUM3v)
