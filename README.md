@@ -173,4 +173,12 @@ Full table in `data/processed/evaluation_results.csv` after running the notebook
 
 ## Screenshots
 
-_(add screenshots of the Streamlit UI answering a real question here before submitting)_
+![Streamlit UI - Chitchat Handling](https://drive.google.com/file/d/1HCIySH7PKW-tFzvUeytigiNeP7FvueLK/view?usp=drive_link)
+
+![Streamlit UI - In-Scope Query 1](https://drive.google.com/file/d/1qmuoFPhtYgeng7-I1UGVgb1YzDynX18B/view?usp=drive_link)
+
+![Streamlit UI - In-Scope Query 2](https://drive.google.com/file/d/1C4MvvRfh_ZLgEv3QYvUAwdtXM7HJYRWN/view?usp=drive_link)
+
+![Streamlit UI - In-Scope Query 3](https://drive.google.com/file/d/1ICY8Rgmr2kQDiMt0nHPLYwUZIIy6-gg5/view?usp=drive_link)
+
+![Streamlit UI - Out-of-Scope Fallback](https://drive.google.com/file/d/1QkrtfpKcDxg_QRHeEaJOBweoTAqRUM3v/view?usp=drive_link)
